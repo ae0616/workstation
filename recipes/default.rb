@@ -4,4 +4,4 @@
 #
 # Copyright:: 2017, The Authors, All Rights Reserved.
 
-#include_recipe 'disable-uac.rb'
+include_recipe 'workstation::disable-uac'
